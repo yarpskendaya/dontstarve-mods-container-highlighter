@@ -1,12 +1,9 @@
 --[[
     
 ***************************************************************
-Created by: Jamie Cheng
-Date: February 20, 2013
-Description: Sample mod that shows how to:
-	- add post init functions for prefabs, components, simulation
-	- edit tuning values
-	- create your own component
+Created by: Yarpskendaya
+Date: 02/03/2020
+Description: TODO
 ***************************************************************
 
 ]]
